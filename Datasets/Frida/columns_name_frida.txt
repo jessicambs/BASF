@@ -1,0 +1,202 @@
+Unnamed: 0
+Unnamed: 1
+Product description
+Waste
+Energy, kJ
+Energy, kcal
+Nitrogen-to-protein factor
+Nitrogen, total
+Protein, videnskabelig
+Protein labeling
+Carbohydrate by difference
+Carbohydrates, available
+Carbohydrate, declaration
+Added sugar
+Dietary fiber
+Fat, total
+Fatty acid conversion factor (FCF)
+Alcohol
+Ash
+Dry matter
+Water
+Vitamin A
+Retinol
+beta-carotene
+Vitamin D
+Vitamin D3
+D2 ergocalciferol
+Vitamin D3 25-hydroxy
+25-hydroxyergocalciferol
+Vitamin E
+alpha-tocopherol
+gamma-tocopherol
+delta-tocopherol
+alpha-tokotrienol
+Vitamin K1
+Vitamin B1
+thiamine
+Vitamin B2, Riboflavin
+Niacin Equivalent
+Niacin
+Vitamin B6
+Pantothenic
+Biotin
+Folate
+Folate, free
+B12
+C Vitamin
+L-ascorbic acid
+L-dehydroascorbic
+Sulfur, S
+Chloride, Cl
+Sodium, Na
+Potassium, K
+Calcium, Ca
+Magnesium, Mg
+Phosphorus, P
+Iron, Fe
+Copper, Cu
+Zinc, Zn
+Iodine In
+Manganese, Mn
+Chromium, Cr
+Selenium, Se
+Molybdenum, Mo
+Cobalt, Co.
+Nickel, Ni
+Fluoron, F
+Silicon, Si
+Rubidium, Rb
+Aluminum, Al
+Boron, B
+Bromine, Br
+Mercury Hg
+Arsenic, As
+Arsen inorganic
+Cadmium, Cd
+Lead, Pb
+Tin, Sn
+L-lactic acid
+D-lactic acid
+Lactic acid, total
+Citric acid
+Oxalic acid
+Malic acid
+Benzoic acid
+Organic acids, tot.
+Histamine
+Tyramine
+Phenylethylamine
+Putrescin
+Cadaverine
+Spermine
+Spermidine
+Serotonin
+Fructose
+Galactose
+Glucose
+Monosaccharides, total
+Lactose
+Maltose
+Sucrose
+Disaccharides total
+Raffinose
+Other sugars
+Sugars, total
+Sorbitol
+Inositol
+Maltitol
+Sugar alcohols, total
+Starch
+IDF
+SDFP
+SDFS
+Hexose
+Pentose
+Uronic Acid
+Cellulose
+Lignin
+Crude fibers
+Neutr.Det.Fibre (NDF)
+C4: 0
+C6: 0
+C8: 0
+C10: 0
+C12: 0
+C13: 0
+C14: 0
+C15: 0
+C16: 0
+C17: 0
+C18: 0
+C20: 0
+C21:0
+C22: 0
+C23:0
+C24: 0
+Saturated F.A., other
+C12:1,n-1
+C14: 1 n-5
+C15: 1
+C16: 1 n-7
+C17: 1 n-7
+C18: 1 n-9
+C18: 1 n-7
+C20: 1 n-9
+C20: 1 n-11
+C22: 1 n-9
+C22: 1 n-11
+C24: 1 n-9
+Other monounsaturated.
+C18: 2 n-6
+C18: 2 conj-A, undifferentiated
+C18: 3 n-3
+C18: 3 n-6
+C18: 4, n-3
+C20: 2 n-6
+C22:2,n-6
+C22:4,n-6
+C22:5,n-6
+C20: 3 n-3
+C20: 4, n-3
+C20: 3 n-6
+C20: 4, n-6
+C20: 5, n-3
+C22: 5, n-3
+C22: 6, n-3
+Other polyunsaturated
+C14: 1 trans-9
+C16: 1 trans
+C18: 1 trans-n-9
+C20: 1 trans
+C22: 1 trans
+C18: 2, trans, undifferentiated
+Other fatty acids
+Sum saturated
+Sum monounsaturated
+Sum polyunsaturated
+Trans fatty acids, total
+Fatty acids, total
+Sum n-3 fatty acids
+Sum n-6 fatty acids
+Cholesterol
+Isoleucine
+Leucine
+Lysine
+Methionine
+Cystine
+Phenylalanine
+Tyrosine
+Threonine
+Tryptophan
+Valin
+Arginine
+Histidine
+Alanine
+Aspartic acid
+Glutamic acid
+Glycine
+Proline
+Hydroxyproline
+Serin
+Density

@@ -1,0 +1,58 @@
+Component_name,Component_AverageAmount,Component_Unit,Component_DerivBy,Component_n,Component_Samples,Component_Min,Component_Max,Component_Median,Component_YearAcquired
+Proximates:,,,,,,,,,
+Water,92.5,g,Analytical,18,Samples,90.9,93.6,92.7,2016
+Energy (Atwater General Factors),31,kcal,Calculated,,,,,,
+Energy (Atwater Specific Factors),27,kcal,Calculated,,,,,,
+Nitrogen,0.13,g,Analytical,6,Samples,0.12,0.15,0.13,2016
+Protein,0.83,g,Calculated,,,0.75,0.94,0.81,
+Total lipid (fat),0.63,g,Analytical,6,Samples,0.46,0.82,0.64,2016
+Ash,0.56,g,Analytical,6,Samples,0.51,0.64,0.55,2016
+Carbohydrates:,,,,,,,,,
+"Carbohydrate, by difference",5.51,g,Calculated,,,,,,
+"Fiber, total dietary",2.1,g,Analytical,3,Samples,1.9,2.2,2.2,2016
+Minerals:,,,,,,,,,
+"Calcium, Ca",11,mg,Analytical,6,Samples,9,15,10,2016
+"Iron, Fe",0.33,mg,Analytical,6,Samples,0.28,0.44,0.31,2016
+"Magnesium, Mg",11.9,mg,Analytical,6,Samples,10.7,13.1,11.8,2016
+"Phosphorus, P",28,mg,Analytical,6,Samples,23,33,27,2016
+"Potassium, K",260,mg,Analytical,6,Samples,239,285,257,2016
+"Sodium, Na",6,mg,Analytical,6,Samples,3,10,5,2016
+"Zinc, Zn",0.2,mg,Analytical,6,Samples,0.18,0.25,0.19,2016
+"Copper, Cu",0.058,mg,Analytical,6,Samples,0.042,0.085,0.056,2016
+"Manganese, Mn",0.121,mg,Analytical,6,Samples,0.076,0.219,0.098,2016
+Vitamins and Other Components:,,,,,,,,,
+"Vitamin C, total ascorbic acid",27.2,mg,Analytical,12,Samples,22.4,32.4,26.3,2016
+Thiamin,0.075,mg,Analytical,2,Samples,0.07,0.08,0.075,2016
+Riboflavin,0.065,mg,Analytical,2,Samples,0.06,0.07,0.065,2016
+Niacin,0.805,mg,Analytical,2,Samples,0.8,0.81,0.805,2016
+Vitamin B-6,0.06,mg,Analytical,2,Samples,0.05,0.07,0.06,2016
+"Folate, total",10,µg,Analytical,2,Samples,9,10,10,2016
+"Choline, total",9.8,mg,Analytical,1,Samples,,,9.8,2016
+"Choline, free",8,mg,Analytical,1,Samples,,,8,2016
+"Choline, from phosphocholine",0.6,mg,Analytical,1,Samples,,,0.6,2016
+"Choline, from phosphotidyl choline",1.2,mg,Analytical,1,Samples,,,1.2,2016
+"Choline, from glycerophosphocholine",0,mg,Analytical,1,Samples,,,0,2016
+"Choline, from sphingomyelin",0,mg,Analytical,1,Samples,,,0,2016
+Betaine,0,mg,Analytical,1,Samples,,,0,2016
+"Vitamin A, RAE",0,µg,Calculated,,,,,,
+cis-beta-Carotene,49,µg,Analytical,3,Samples,36,67,46,2016
+trans-beta-Carotene,393,µg,Analytical,3,Samples,286,493,399,2016
+"Carotene, alpha",0,µg,Analytical,3,Samples,0,0,0,2016
+"Cryptoxanthin, beta",0,µg,Analytical,3,Samples,0,0,0,2016
+"Cryptoxanthin, alpha",0,µg,Analytical,3,Samples,0,0,0,2016
+Lycopene,4100,µg,Analytical,3,Samples,3860,4240,4210,2016
+cis-Lycopene,554,µg,Analytical,3,Samples,524,594,542,2016
+cis-Lutein/Zeaxanthin,12,µg,Analytical,3,Samples,9,14,12,2016
+Lutein,95,µg,Analytical,3,Samples,68,131,84,2016
+Zeaxanthin,9,µg,Analytical,3,Samples,8,11,9,2016
+Vitamin E (alpha-tocopherol),0.98,mg,Analytical,2,Samples,0.85,1.12,0.98,2016
+"Tocopherol, beta",0.02,mg,Analytical,2,Samples,0,0.04,0.02,2016
+"Tocopherol, gamma",0.7,mg,Analytical,2,Samples,0.61,0.8,0.7,2016
+"Tocopherol, delta",0.12,mg,Analytical,2,Samples,0.08,0.15,0.12,2016
+"Tocotrienol, alpha",0,mg,Analytical,2,Samples,0,0,0,2016
+"Tocotrienol, beta",0,mg,Analytical,2,Samples,0,0,0,2016
+"Tocotrienol, gamma",0,mg,Analytical,2,Samples,0,0,0,2016
+"Tocotrienol, delta",0,mg,Analytical,2,Samples,0,0,0,2016
+Vitamin K (phylloquinone),4.2,µg,Analytical,2,Samples,3.3,5.2,4.2,2016
+Vitamin K (Dihydrophylloquinone),0,µg,Analytical,2,Samples,0,0,0,2016
+Vitamin K (Menaquinone-4),0,µg,Analytical,2,Samples,0,0,0,2016

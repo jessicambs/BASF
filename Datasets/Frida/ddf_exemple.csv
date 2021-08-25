@@ -1,0 +1,13 @@
+index,Product,Measuring unit,Amount of,VITB6_mg
+NEVO,tomato raw,g,100,0.03
+NEVO,"Tomato, ripe, raw, origin unknown",g,100,0.2
+NEVO,"Tomato, dried",g,100,0.37
+NEVO,"Tomato, Danish, ripe, raw",g,100,0.01
+Frida,tomato raw,g,100,0.02
+Frida,"Tomato, ripe, raw, origin unknown",g,100,1.6
+Frida,"Tomato, dried",g,100,0.45
+Frida,"Tomato, Danish, ripe, raw",g,100,0.01
+USDA,tomato raw,g,100,0.02
+USDA,"Tomato, ripe, raw, origin unknown",g,100,0.6
+USDA,"Tomato, dried",g,100,0.45
+USDA,"Tomato, Danish, ripe, raw",g,100,0.01
